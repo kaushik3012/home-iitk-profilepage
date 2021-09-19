@@ -22,6 +22,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com/_electr1fy_3012",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "email",
+          "url": "mailto:kaushikrajn@gmail.com",
+          "class": "fas fa-envelope"
         }
       ],
       "image": "myProfile2.jpg"

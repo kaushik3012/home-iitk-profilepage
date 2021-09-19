@@ -21,6 +21,10 @@
         "url": "https://github.com/kaushik3012/3d-pose-warping#readme",
         "technologies": [
           {
+            "class": "devicon-python-plain",
+            "name": "python"
+          },
+          {
             "class": "devicon-jupyter-plain",
             "name": "Jupyter"
           },

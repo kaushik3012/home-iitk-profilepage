@@ -1,0 +1,78 @@
+{
+    "basic_info": {
+      "name": "Kaushik Raj Nadar",
+      "titles": [ "Computer Vision", "Biologist", "Web Developer" ],
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/kaushikrajn",
+          "class": "fab fa-facebook"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/kaushikrajn",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/kaushik3012",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/_electr1fy_3012",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile2.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "90"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-original",
+          "level": "60"
+        },
+        {
+          "name": "TensorFlow",
+          "class": "devicon-tensorflow-original",
+          "level": "75"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,134 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Kaushik Raj V Nadar, junior undergraduate engineering student at IIT Kanpur specializing in Biological Sciences and Bioengineering. My interest lies in Computer vision and applying Deep Learning techniques in biological imaging and neurobiology.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "3D Pose Warping",
+        "startDate": "2021",
+        "description": "In this project we use Deep Learning techniques to implement GAN based reposing of an image of a human into any desired novel pose based on the algorithm provided in the paper.",
+        "images": [
+          "images/portfolio/3dposewarp/p1.png",
+          "images/portfolio/3dposewarp/p2.jpeg"
+        ],
+        "url": "https://github.com/kaushik3012/3d-pose-warping#readme",
+        "technologies": [
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          }
+        ]
+      },
+      {
+        "title": "Leaning Tower of Pisa",
+        "startDate": "2021",
+        "description": "This project is a part of our coursework(Manufacturing Process-1) where we as a team are required to design and fabricate a model based on the materials (mostly metals) provided by the institute.",
+        "images": [
+          "images/portfolio/LToP/p1.png",
+          "images/portfolio/LToP/p2.png"
+        ],
+        "url": "https://a360.co/2WVcMaC",
+        "technologies": [
+          {
+            "class": ".",
+            "name": "Fusion360"
+          },
+          {
+            "class": ".",
+            "name": "Solidworks"
+          },
+          {
+            "class": ".",
+            "name": "Sketchup"
+          }
+        ]
+      },
+      {
+        "title": "Music Playlist WebApp",
+        "startDate": "2021",
+        "description": "A simple music app which searches music from Soundcloud and creates a Playlist Sidebar which is stored Locally on the user's machine. I made it from scratch using Javascript and integrating SoundCloud API.",
+        "images": [
+          "images/portfolio/music-playlist/p1.jpeg",
+          "images/portfolio/music-playlist/p2.png"
+        ],
+        "url": "https://github.com/kaushik3012/Music-Playlist-WebApp",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Electronics Club, IITK",
+        "title": "Secretary",
+        "years": "08.2021 - present",
+        "mainTech": [
+          "Tensorflow"
+        ],
+        "technologies": [
+          "Python",
+          "Numpy",
+          "TF-GAN",
+          "Tensorflow",
+          "Keras",
+          "Arduino",
+          "Matplotlib",
+          "Pandas",
+          "TensorBoard",
+          "OpenCV"
+        ]
+      },
+      {
+        "company": "Outreach Cell, IITK",
+        "title": "Secretary (Web)",
+        "years": "04.2021 - present",
+        "mainTech": [
+          "Bootstrap"
+        ],
+        "technologies": [
+          "HTML 5",
+          "Javascript",
+          "CSS 3",
+          "Bootstrap 4",
+          "Git"
+        ]
+      },
+      {
+        "company": "Entrepreneurship Cell, IITK",
+        "title": "Secretary (SIP)",
+        "years": "05.2021 - 08.2021",
+        "mainTech": [
+          "LinkedIn"
+        ],
+        "technologies": [
+          "LeadLeaper",
+          "MS-Excel",
+          "SignalHire",
+          "SalesQL",
+          "LinkedIn"
+        ]
+      }
+    ]
+  }

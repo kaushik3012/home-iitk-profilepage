@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Kaushik Raj V Nadar, junior undergraduate engineering student at IIT Kanpur specializing in Biological Sciences and Bioengineering. My interest lies in Computer vision and applying Deep Learning techniques in biological imaging and neurobiology.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,123 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "3D Pose Warping",
+        "startDate": "2021",
+        "description": "In this project we use Deep Learning techniques to implement GAN based reposing of an image of a human into any desired novel pose based on the algorithm provided in the paper.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/3dposewarp/p1.png",
+          "images/portfolio/3dposewarp/p2.jpeg"
         ],
-        "url": "",
+        "url": "https://github.com/kaushik3012/3d-pose-warping#readme",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Leaning Tower of Pisa",
+        "startDate": "2021",
+        "description": "This project is a part of our coursework(Manufacturing Process-1) where we as a team are required to design and fabricate a model based on the materials (mostly metals) provided by the institute.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/LToP/p1.png",
+          "images/portfolio/LToP/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://a360.co/2WVcMaC",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": ".",
+            "name": "Fusion360"
+          },
+          {
+            "class": ".",
+            "name": "Solidworks"
+          },
+          {
+            "class": ".",
+            "name": "Sketchup"
+          }
+        ]
+      },
+      {
+        "title": "Music Playlist WebApp",
+        "startDate": "2021",
+        "description": "A simple music app which searches music from Soundcloud and creates a Playlist Sidebar which is stored Locally on the user's machine. I made it from scratch using Javascript and integrating SoundCloud API.",
+        "images": [
+          "images/portfolio/music-playlist/p1.jpeg",
+          "images/portfolio/music-playlist/p2.png"
+        ],
+        "url": "https://github.com/kaushik3012/Music-Playlist-WebApp",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Javascript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Electronics Club, IITK",
+        "title": "Secretary",
+        "years": "08.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Tensorflow"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Python",
+          "Numpy",
+          "TF-GAN",
+          "Tensorflow",
+          "Keras",
+          "Arduino",
+          "Matplotlib",
+          "Pandas",
+          "TensorBoard",
+          "OpenCV"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Outreach Cell, IITK",
+        "title": "Secretary (Web)",
+        "years": "04.2021 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Bootstrap"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML 5",
+          "Javascript",
+          "CSS 3",
+          "Bootstrap 4",
+          "Git"
+        ]
+      },
+      {
+        "company": "Entrepreneurship Cell, IITK",
+        "title": "Secretary (SIP)",
+        "years": "05.2021 - 08.2021",
+        "mainTech": [
+          "LinkedIn"
+        ],
+        "technologies": [
+          "LeadLeaper",
+          "MS-Excel",
+          "SignalHire",
+          "SalesQL",
+          "LinkedIn"
         ]
       }
     ]

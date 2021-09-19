@@ -1,116 +1,134 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "नमस्ते",
+    "description": "👋 मैं कौशिक राज वी नादर हूं, भारतीय प्रौद्योगिकी संस्थान, कानपुर में जूनियर अंडरग्रेजुएट इंजीनियरिंग का छात्र हूं, जो जैविक विज्ञान और बायोइंजीनियरिंग में विशेषज्ञता रखता है। मेरी रुचि कंप्यूटर विज़न और बायोलॉजिकल इमेजिंग में डीप लर्निंग तकनीकों को लागू करने में है।",
+    "section_name": {
+      "about": "परिचय",
+      "projects": "मेरी परियोजनाएं",
+      "skills": "रूचि",
+      "experience": "अनुभव"
+    }
+  },
+  "projects": [
+    {
+      "title": "३-डी पोज़ वारपिंग",
+      "startDate": "2021",
+      "description": "इस परियोजना में हम अनुसंधान में प्रदान किए गए एल्गोरिथम के आधार पर किसी भी वांछित उपन्यास मुद्रा में मानव की छवि की GAN आधारित रिपोर्टिंग को लागू करने के लिए डीप लर्निंग तकनीकों का उपयोग करते हैं।",
+      "images": [
+        "images/portfolio/3dposewarp/p1.png",
+        "images/portfolio/3dposewarp/p2.jpeg"
+      ],
+      "url": "https://github.com/kaushik3012/3d-pose-warping#readme",
+      "technologies": [
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "Jupyter"
+        },
+        {
+          "class": "devicon-tensorflow-original",
+          "name": "Tensorflow"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "पीसा की मीनार",
+      "startDate": "2021",
+      "description": "यह परियोजना हमारे शोध (विनिर्माण प्रक्रिया -1) का एक हिस्सा है जहां हमें एक टीम के रूप में संस्थान द्वारा प्रदान की जाने वाली सामग्री (ज्यादातर धातु) के आधार पर एक मॉडल डिजाइन और निर्माण करने की आवश्यकता होती है।",
+      "images": [
+        "images/portfolio/LToP/p1.png",
+        "images/portfolio/LToP/p2.png"
+      ],
+      "url": "https://a360.co/2WVcMaC",
+      "technologies": [
+        {
+          "class": ".",
+          "name": "Fusion360"
+        },
+        {
+          "class": ".",
+          "name": "Solidworks"
+        },
+        {
+          "class": ".",
+          "name": "Sketchup"
+        }
+      ]
+    },
+    {
+      "title": "संगीत प्लेलिस्ट वेब-ऐप",
+      "startDate": "2021",
+      "description": "एक साधारण संगीत ऐप जो साउंडक्लाउड से संगीत की खोज करता है और एक प्लेलिस्ट साइडबार बनाता है जो उपयोगकर्ता की मशीन पर स्थानीय रूप से संग्रहीत होता है। मैंने इसे जावास्क्रिप्ट का उपयोग करके और साउंडक्लाउड एपीआई को एकीकृत करके खरोंच से बनाया है।",
+      "images": [
+        "images/portfolio/music-playlist/p1.jpeg",
+        "images/portfolio/music-playlist/p2.png"
+      ],
+      "url": "https://github.com/kaushik3012/Music-Playlist-WebApp",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "इलेक्ट्रॉनिक्स क्लब, आईआईटीके",
+      "title": "सेक्रेटरी",
+      "years": "08.2021 - वर्तमान",
+      "mainTech": [
+        "Tensorflow"
+      ],
+      "technologies": [
+        "Python",
+        "Numpy",
+        "TF-GAN",
+        "Tensorflow",
+        "Keras",
+        "Arduino",
+        "Matplotlib",
+        "Pandas",
+        "TensorBoard",
+        "OpenCV"
+      ]
+    },
+    {
+      "company": "आउटरीच सेल, आईआईटीके",
+      "title": "सेक्रेटरी (वेब)",
+      "years": "04.2021 - वर्तमान",
+      "mainTech": [
+        "Bootstrap"
+      ],
+      "technologies": [
+        "HTML 5",
+        "Javascript",
+        "CSS 3",
+        "Bootstrap 4",
+        "Git"
+      ]
+    },
+    {
+      "company": "उद्यमिता सेल, आईआईटीके",
+      "title": "सेक्रेटरी (SIP)",
+      "years": "05.2021 - 08.2021",
+      "mainTech": [
+        "LinkedIn"
+      ],
+      "technologies": [
+        "LeadLeaper",
+        "MS-Excel",
+        "SignalHire",
+        "SalesQL",
+        "LinkedIn"
+      ]
+    }
+  ]
+}

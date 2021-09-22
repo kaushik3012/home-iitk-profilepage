@@ -40,9 +40,11 @@
       "description": "यह परियोजना हमारे शोध (विनिर्माण प्रक्रिया -1) का एक हिस्सा है जहां हमें एक टीम के रूप में संस्थान द्वारा प्रदान की जाने वाली सामग्री (ज्यादातर धातु) के आधार पर एक मॉडल डिजाइन और निर्माण करने की आवश्यकता होती है।",
       "images": [
         "images/portfolio/LToP/p1.png",
-        "images/portfolio/LToP/p2.png"
+        "images/portfolio/LToP/p2.png",
+        "images/portfolio/LToP/p3.png",
+        "images/portfolio/LToP/p4.png"
       ],
-      "url": "https://a360.co/2WVcMaC",
+      "url": "https://drive.google.com/file/d/1gfTaxtHhdQLkZfDTPo2HrsTmxIYsNy8a/view?usp=sharing",
       "technologies": [
         {
           "class": ".",

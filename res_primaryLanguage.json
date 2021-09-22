@@ -37,12 +37,14 @@
       {
         "title": "Leaning Tower of Pisa",
         "startDate": "2021",
-        "description": "This project is a part of our coursework(Manufacturing Process-1) where we as a team are required to design and fabricate a model based on the materials (mostly metals) provided by the institute.",
+        "description": "This project is a part of our coursework(Manufacturing Process-1) where we as a team were required to design and devise a method to fabricate a model based on the materials (mostly metals) provided by the institute.",
         "images": [
           "images/portfolio/LToP/p1.png",
-          "images/portfolio/LToP/p2.png"
+          "images/portfolio/LToP/p2.png",
+          "images/portfolio/LToP/p3.png",
+          "images/portfolio/LToP/p4.png"
         ],
-        "url": "https://a360.co/2WVcMaC",
+        "url": "https://drive.google.com/file/d/1gfTaxtHhdQLkZfDTPo2HrsTmxIYsNy8a/view?usp=sharing",
         "technologies": [
           {
             "class": ".",

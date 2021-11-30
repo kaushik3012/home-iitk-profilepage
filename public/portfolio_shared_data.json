@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Kaushik Raj Nadar",
-      "titles": [ "Computer Vision", "Biologist", "Web Developer" ],
+      "titles": [ "Bioengineer", "Web Developer", "AI enthusiast"],
       "social": [
         {
           "name": "facebook",
@@ -79,5 +79,27 @@
           "level": "75"
         }
       ]
-    }
+    },
+    "resources":[
+      {
+        "name": "MTH101",
+        "url" : "https://www.google.com"
+      },
+      {
+        "name": "MTH102",
+        "url" : "www.google.com"
+      },
+      {
+        "name" : "PHY102",
+        "url" : "www.google.com"
+      },
+      {
+        "name": "PHY103",
+        "url" : "www.google.com"
+      },
+      {
+        "name": "ESC101",
+        "url" : "www.google.com"
+      }
+    ]
   }

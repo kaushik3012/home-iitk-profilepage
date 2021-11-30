@@ -66,6 +66,16 @@ body[data-theme="dark"] {
       }
    }
 
+   #resource {
+      background-color: #7f7f7f;
+      h1 span {
+         color: white;
+      }
+      a {
+         background-color: #3b3b3b;
+      }
+   }
+
    #resume {
       filter: brightness(80%);
       background: #5b5b5b;

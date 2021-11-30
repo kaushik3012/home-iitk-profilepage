@@ -1,6 +1,7 @@
 @import '../src/scss/themes/theme-dark.scss';
 @import '../src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
 
 html {
 	font-size: 62.5%;
@@ -425,4 +426,26 @@ footer a:focus {
 .social-links {
 	margin-top: 50px;
 	font-size: 22px;
+}
+
+#resource {
+	background: #fff;
+	overflow: hidden;
+	min-height: 200px;
+	width: 100%;
+	padding-bottom: 5%;
+
+	h1 {
+		padding-top: 5%;
+		font: 18px/24px 'opensans-bold', sans-serif;
+		text-transform: uppercase;
+		letter-spacing: 3px;
+		text-align: center;
+	}
+
+	a {
+		background-color:rgb(187, 162, 95);
+		color:rgb(255, 255, 255);
+		text-decoration: none;
+	}
 }

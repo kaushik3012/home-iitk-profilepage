@@ -7,6 +7,7 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Resources from "./components/Resources";
 
 class App extends Component {
 
@@ -36,10 +37,10 @@ class App extends Component {
         : window.$primaryLanguageIconId;
     document
       .getElementById(oppositeLangIconId)
-      .removeAttribute("filter", "brightness(40%)");
+      .setAttribute("filter", "brightness(40%)");
     document
       .getElementById(pickedLangIconId)
-      .setAttribute("filter", "brightness(40%)");
+      .removeAttribute("filter", "brightness(40%)");
   }
 
   componentDidMount() {
@@ -128,6 +129,10 @@ class App extends Component {
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
+        />
+        <Resources 
+        resumeBasicInfo={this.state.resumeData.basic_info}
+        resumeResources = {this.state.sharedData.resources}
         />
         <Experience
           resumeExperience={this.state.resumeData.experience}

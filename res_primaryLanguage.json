@@ -1,12 +1,13 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Kaushik Raj V Nadar, junior undergraduate engineering student at IIT Kanpur specializing in Biological Sciences and Bioengineering. My interest lies in Computer vision and applying Deep Learning techniques in biological imaging and neurobiology.",
+      "description": "👋 I'm Kaushik Raj V Nadar, junior undergraduate engineering student at IIT Kanpur specializing in Biological Sciences and Bioengineering. My interest lies in Biotechnology and applying deep Learning techniques in biological imaging.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience",
+        "resources": "Academic Resources"
       }
     },
     "projects": [
@@ -88,22 +89,33 @@
     ],
     "experience": [
       {
+        "company": "Counseling Service, IITK",
+        "title": "Academic Mentor",
+        "years": "11.2021 - present",
+        "mainTech": [
+          "LIF101"
+        ],
+        "technologies": [
+          "Biology",
+          "Biotechnology",
+          "Biochemistry"
+        ]
+      },
+      {
         "company": "Electronics Club, IITK",
         "title": "Secretary",
         "years": "08.2021 - present",
         "mainTech": [
-          "Tensorflow"
+          "Electronics"
         ],
         "technologies": [
+          "Electronics",
           "Python",
-          "Numpy",
-          "TF-GAN",
+          "GAN",
           "Tensorflow",
           "Keras",
           "Arduino",
-          "Matplotlib",
           "Pandas",
-          "TensorBoard",
           "OpenCV"
         ]
       },
@@ -112,7 +124,7 @@
         "title": "Secretary (Web)",
         "years": "04.2021 - present",
         "mainTech": [
-          "Bootstrap"
+          "Web Development"
         ],
         "technologies": [
           "HTML 5",
@@ -127,7 +139,7 @@
         "title": "Secretary (SIP)",
         "years": "05.2021 - 08.2021",
         "mainTech": [
-          "LinkedIn"
+          "Startup Internship Program"
         ],
         "technologies": [
           "LinkedIn",

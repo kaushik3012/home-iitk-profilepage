@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/home-iitk-profilepage/static/css/main.fcf2461e.chunk.css",
-    "main.js": "/home-iitk-profilepage/static/js/main.ac7ae7af.chunk.js",
-    "main.js.map": "/home-iitk-profilepage/static/js/main.ac7ae7af.chunk.js.map",
+    "main.css": "/home-iitk-profilepage/static/css/main.15e9b743.chunk.css",
+    "main.js": "/home-iitk-profilepage/static/js/main.ee238957.chunk.js",
+    "main.js.map": "/home-iitk-profilepage/static/js/main.ee238957.chunk.js.map",
     "runtime-main.js": "/home-iitk-profilepage/static/js/runtime-main.76706f0f.js",
     "runtime-main.js.map": "/home-iitk-profilepage/static/js/runtime-main.76706f0f.js.map",
     "static/css/2.d64471e2.chunk.css": "/home-iitk-profilepage/static/css/2.d64471e2.chunk.css",
-    "static/js/2.31e1cfa3.chunk.js": "/home-iitk-profilepage/static/js/2.31e1cfa3.chunk.js",
-    "static/js/2.31e1cfa3.chunk.js.map": "/home-iitk-profilepage/static/js/2.31e1cfa3.chunk.js.map",
+    "static/js/2.f2de5536.chunk.js": "/home-iitk-profilepage/static/js/2.f2de5536.chunk.js",
+    "static/js/2.f2de5536.chunk.js.map": "/home-iitk-profilepage/static/js/2.f2de5536.chunk.js.map",
     "index.html": "/home-iitk-profilepage/index.html",
-    "precache-manifest.43cc68c3dcfc5e19e6f2aeaa3457fc14.js": "/home-iitk-profilepage/precache-manifest.43cc68c3dcfc5e19e6f2aeaa3457fc14.js",
+    "precache-manifest.cf3e3f96a42dfc44aeaae91986e7446b.js": "/home-iitk-profilepage/precache-manifest.cf3e3f96a42dfc44aeaae91986e7446b.js",
     "service-worker.js": "/home-iitk-profilepage/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/home-iitk-profilepage/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.fcf2461e.chunk.css.map": "/home-iitk-profilepage/static/css/main.fcf2461e.chunk.css.map",
-    "static/js/2.31e1cfa3.chunk.js.LICENSE.txt": "/home-iitk-profilepage/static/js/2.31e1cfa3.chunk.js.LICENSE.txt"
+    "static/css/main.15e9b743.chunk.css.map": "/home-iitk-profilepage/static/css/main.15e9b743.chunk.css.map",
+    "static/js/2.f2de5536.chunk.js.LICENSE.txt": "/home-iitk-profilepage/static/js/2.f2de5536.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76706f0f.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.31e1cfa3.chunk.js",
-    "static/css/main.fcf2461e.chunk.css",
-    "static/js/main.ac7ae7af.chunk.js"
+    "static/js/2.f2de5536.chunk.js",
+    "static/css/main.15e9b743.chunk.css",
+    "static/js/main.ee238957.chunk.js"
   ]
 }

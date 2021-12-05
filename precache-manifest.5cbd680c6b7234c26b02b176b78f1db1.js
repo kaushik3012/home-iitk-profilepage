@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5b3e62acd73474f7c1f6f265d6025fa",
+    "revision": "b035c9b8961d5da969e090aaf09a8448",
     "url": "/home-iitk-profilepage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home-iitk-profilepage/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "35dd3779e2b2d3de3e39",
+    "revision": "740cb2b9c30088a0e436",
     "url": "/home-iitk-profilepage/static/css/main.15e9b743.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home-iitk-profilepage/static/js/2.f2de5536.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35dd3779e2b2d3de3e39",
-    "url": "/home-iitk-profilepage/static/js/main.ee238957.chunk.js"
+    "revision": "740cb2b9c30088a0e436",
+    "url": "/home-iitk-profilepage/static/js/main.a37ec1ae.chunk.js"
   },
   {
     "revision": "1b21649f20a40d9497e8",

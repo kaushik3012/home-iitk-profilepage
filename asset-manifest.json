@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/home-iitk-profilepage/static/css/main.15e9b743.chunk.css",
-    "main.js": "/home-iitk-profilepage/static/js/main.ee238957.chunk.js",
-    "main.js.map": "/home-iitk-profilepage/static/js/main.ee238957.chunk.js.map",
+    "main.js": "/home-iitk-profilepage/static/js/main.a37ec1ae.chunk.js",
+    "main.js.map": "/home-iitk-profilepage/static/js/main.a37ec1ae.chunk.js.map",
     "runtime-main.js": "/home-iitk-profilepage/static/js/runtime-main.76706f0f.js",
     "runtime-main.js.map": "/home-iitk-profilepage/static/js/runtime-main.76706f0f.js.map",
     "static/css/2.d64471e2.chunk.css": "/home-iitk-profilepage/static/css/2.d64471e2.chunk.css",
     "static/js/2.f2de5536.chunk.js": "/home-iitk-profilepage/static/js/2.f2de5536.chunk.js",
     "static/js/2.f2de5536.chunk.js.map": "/home-iitk-profilepage/static/js/2.f2de5536.chunk.js.map",
     "index.html": "/home-iitk-profilepage/index.html",
-    "precache-manifest.cf3e3f96a42dfc44aeaae91986e7446b.js": "/home-iitk-profilepage/precache-manifest.cf3e3f96a42dfc44aeaae91986e7446b.js",
+    "precache-manifest.5cbd680c6b7234c26b02b176b78f1db1.js": "/home-iitk-profilepage/precache-manifest.5cbd680c6b7234c26b02b176b78f1db1.js",
     "service-worker.js": "/home-iitk-profilepage/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/home-iitk-profilepage/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.15e9b743.chunk.css.map": "/home-iitk-profilepage/static/css/main.15e9b743.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.f2de5536.chunk.js",
     "static/css/main.15e9b743.chunk.css",
-    "static/js/main.ee238957.chunk.js"
+    "static/js/main.a37ec1ae.chunk.js"
   ]
 }

@@ -27,7 +27,7 @@ class Footer extends Component {
                   ? this.props.sharedBasicInfo.name
                   : "???"}
                 <br></br>
-                Template by <a href="https://github.com/Dorota1997/react-frontend-dev-portfolio" target="_blank"> Dorota1997</a>
+                Template by <a href="https://github.com/Dorota1997/react-frontend-dev-portfolio" target="_blank" rel="noopener noreferrer"> Dorota1997</a>
               </small>
             </div>
           </div>
